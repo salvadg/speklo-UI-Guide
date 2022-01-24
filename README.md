@@ -1,5 +1,6 @@
 # speklo-UI-Guide
-### I'm not a designer but I need had to create a rough design guide help my development process flow better.
+### Rough design guide to help my development process flow better. But I'm not a UI/UX person. Just a person that tries to create things.
 
-This rough draft that will be updated as I flesh out this project unless I forget. 
+This rough draft that will be updated as I flesh out this project unless I forget.
+Why am I talking to myself? I'm the only one working on this project.
 
